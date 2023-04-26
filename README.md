@@ -1,5 +1,7 @@
 # Android Basic UI Components
 
+## [Download APK](https://github.com/rizwansoaib/Android_basic_ui_components/releases/download/v1/basic_ui_comp.apk)
+
 [activity_main.xml](https://github.com/rizwansoaib/Android_basic_ui_components/blob/master/app/src/main/res/layout/activity_main.xml)
 
 - TextView    (This control is used to display text to the user)
