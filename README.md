@@ -5,7 +5,7 @@
 ![components image](https://user-images.githubusercontent.com/29729380/234521768-32876bcb-ebd7-4633-8c96-0411d2be6d88.png)
 
 
-[activity_main.xml](https://github.com/rizwansoaib/Android_basic_ui_components/blob/master/app/src/main/res/layout/activity_main.xml)
+[View activity_main.xml](https://github.com/rizwansoaib/Android_basic_ui_components/blob/master/app/src/main/res/layout/activity_main.xml)
 
 - TextView    (This control is used to display text to the user)
 - EditText    (EditText is a predefined subclass of TextView that includes rich editing capabilities)
